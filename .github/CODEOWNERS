@@ -1,0 +1,8 @@
+# CODEOWNERS
+# 이 파일에 등록된 사람은 해당 경로에 변경이 생긴 PR에 자동으로 리뷰어로 지정됩니다.
+# 새 팀원을 추가하면 아래에 GitHub 아이디를 추가해서 같이 리뷰하게 하세요.
+#
+# 문법: <경로 패턴>  <@GitHub아이디 or @org/팀> ...
+# 예: /assets/  @donghyup-shin @새로운아이디
+
+* @donghyup-shin
